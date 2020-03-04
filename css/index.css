@@ -40,7 +40,7 @@ hr {
 }
 
 .download-image {
-  max-width: 60%
+  width: 60%
 }
 
 .main-image {
@@ -65,6 +65,22 @@ hr {
 @media only screen and (max-width: 450px) {
   .container {
       text-align: center;
+  }
+
+  .download-image {
+    width:300px;
+    height: 75px;
+  }
+
+  .image-span {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .main-image {
+    width: 300px;
+    height: 200px;
   }
 
   .invite-a-friend-image-container {

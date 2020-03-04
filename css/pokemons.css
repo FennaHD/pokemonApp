@@ -53,6 +53,11 @@ p {
     justify-content: center;
   }
 
+  .pokemon-image-container {
+    width: 200px;
+    height: 200px;
+  }
+
   p {
     text-align: center;
   }

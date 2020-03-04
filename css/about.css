@@ -8,6 +8,10 @@
   width: 60%;
 }
 
+.row {
+  justify-content: center;
+}
+
 .about-title {
   font-family: 'Oswald', sans-serif;
   font-size: 50px;
@@ -56,7 +60,23 @@ hr {
     justify-content: center;
   }
 
-  p {
+  .first {
+    height: 275px;
+  }
+
+  .second {
+    height: 133px;
+  }
+
+  .third {
+    height: 200px;
+  }
+
+  .fourth {
+    height: 235px;
+  }
+
+  body {
     text-align: center;
   }
 }

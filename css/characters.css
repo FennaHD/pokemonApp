@@ -70,4 +70,14 @@
   .image-container {
     margin-bottom: 40px;
   }
+
+  .character-image-container {
+    width: 200px;
+    height: 447px;
+  }
+
+  .episode-image {
+    width: 200px;
+    height: 144px;
+  }
 }
